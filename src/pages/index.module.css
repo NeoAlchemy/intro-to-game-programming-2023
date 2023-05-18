@@ -8,6 +8,8 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+  background-image: url(https://wallpapercave.com/wp/wp7390684.jpg);
+  background-position: 0% 15%;
 }
 
 @media screen and (max-width: 996px) {

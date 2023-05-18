@@ -4,42 +4,44 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Purpose of Site',
+    Img: require('@site/static/img/bejeweled.jpeg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        This site is going to be useful for students to find material presented, links,
+        or assignments in order to help them with their journey.  That way if a student
+        is stuck on an assignment or coding project they have a place to help them.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'HTML5 and JavaScript',
+    Img: require('@site/static/img/pacman.jpeg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        This course is designed to be around JavaScript as a language.  The lessons
+        not only teach you how to code, but think like a programmer.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Get Started',
+    Img: require('@site/static/img/mario.jpeg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Click on the material in the upper top left corner for Lessons of what 
+        was shared during the week.  There may be some blog articles to keep your
+        knowledge and ideas fresh.
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({Img, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <img src={Img} />
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>

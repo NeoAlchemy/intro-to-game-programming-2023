@@ -2,46 +2,12 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## Welcome
 
-## Getting Started
+My son has been trying to learn how to code using AI to help teach him.  This gave me the idea to develop a course, based partially on my coding background, to teach him proper fundamentals in coding.  I have a desire to help others to learn how to code- my son, professionals at work, a high school student, and now want to teach those interested in learning how to code and program within gaming.  I have designed a course around game programming meant for beginner level coders.  This takes those with a desire and some logical thinking skills, and teaches them to think like a programmer, teaches basic coding, and then create fun games.  I chose games to introduce coding because you have to enjoy what you do and have fun doing it.  I have taken this very seriously and will provide tons of material and help the way. 
 
-Get started by **creating a new site**.
+## Purpose
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+I'll be using this site to share information as each week is going along for students to be able to review and use the material that has been presented.
