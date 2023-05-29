@@ -11,7 +11,7 @@ You just finished Module 1 Lesson 1: Game Design Principles and Mechanics
 Materials if you wish to study and reveiw what you learned to build a strong base for the rest of the class.
 
 - [Slides]
-- [Lesson Manual]
+- [Lesson Manual](/Game Design Principles and Mechanisms.pdf)
 
 You should be able to explain the following concepts at the end of this lesson:
 
