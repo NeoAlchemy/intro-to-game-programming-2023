@@ -35,6 +35,11 @@ const config = {
   presets: [
     [
       'classic',
+      {
+        gtag: {
+          trackingID: 'G-NBSLZGMLKR',
+        }
+      },
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
