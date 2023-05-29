@@ -39,3 +39,4 @@ Please bring to next class for a reward.
 - [Blizzard Production Methodology](https://leonardperez.net/blizzards-production-methodology/)
 - [Game Development Process #1](https://innovecs.com/blog/game-development-process/)
 - [Game Development Process #2](https://blogs.geniteam.com/dev-process/)
+- [Create Game Sprites or Characters](https://www.piskelapp.com/p/create/sprite)
