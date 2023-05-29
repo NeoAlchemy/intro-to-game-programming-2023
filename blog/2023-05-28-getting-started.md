@@ -1,7 +1,7 @@
 ---
 slug: getting-started
 title: Getting Started
-authors: [Ryan Zielke]
+authors: [NeoAlchemy]
 tags: [coding]
 ---
 
