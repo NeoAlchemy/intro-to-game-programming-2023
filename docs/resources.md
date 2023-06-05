@@ -13,4 +13,4 @@ sidebar_position: 3
 
 - [PacMan](https://freepacman.org)
 - [Sample Games](https://neoalchemy.github.io/linktree/)
-- [PacWars](pacwars-423ed.web.app)
+- [PacWars](http://pacwars-423ed.web.app)
