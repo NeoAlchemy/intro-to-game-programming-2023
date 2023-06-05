@@ -19,7 +19,6 @@ You should be able to explain the following concepts at the end of this lesson:
 - Game design mechanisms, what they are and how they are useful
 - Talk about game design tools like game design documents, wireframes and prototyping tools
 
-
 ## Practice Assignment
 
 ### Create a Game Design Document
