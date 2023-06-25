@@ -10,7 +10,7 @@ You just finished Module 1 Lesson 2: Intro to HTML5 Canvas (Continuation)
 
 Materials if you wish to study and reveiw what you learned to build a strong base for the rest of the class.
 
-- [Slides](/Game%20Programming%20Course%20-%20Module%202%20-%20Slides%20Additional.pdf)
+- [Slides](/Game%20Programming%20Course%20-%20Module%202%20-%20Slides%20-%20Additional.pdf)
 - [Lesson Manual](/Introduction%20to%20HTML5%20Canvas.pdf)
 
 You should be able to explain the following concepts at the end of this lesson:
