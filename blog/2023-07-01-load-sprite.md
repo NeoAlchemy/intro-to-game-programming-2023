@@ -49,3 +49,4 @@ The boilerplate project is now working with Phaser 3 which is a JavaScript and T
 Here is a few urls that may be helpful.  The first one is the starting boilerplate code that you can fork.
 
 - [StackBlitz Starting Boilerplate Code](https://stackblitz.com/edit/starting-boilerplate-phaser-zcqxxx)
+
