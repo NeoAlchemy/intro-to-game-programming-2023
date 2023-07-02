@@ -16,7 +16,7 @@ The boilerplate project is now working with Phaser 3 which is a JavaScript and T
 1. You will want to change the project metadata with a new project name, and url for viewing the project.  Refresh the page to have your project name changes take effect.  You will then want to connect to a GitHub repository.
 ![Connect to Repo](./resources/connect-to-repo.png)
 
-1. You will see the GitHub repository name where the 'connect repository' button use to be.  That is a launchable link and you can click the link to go to the GitHub repository page. 
+1. You will see the GitHub repository name where the 'connect repository' button use to be.  That is a launchable link and you can click the link to go to the GitHub repository page.
 ![Launch Repo](./resources/launch-repo.png)
 
 1. In the repository go to the settings for the repository.
@@ -41,7 +41,7 @@ The boilerplate project is now working with Phaser 3 which is a JavaScript and T
 ![Image Hosted](./resources/image-hosted.png)
 
 1. Inside the index.ts there are a few code changes that you need to make.  First `this.load.baseUrl` sets up where the code can find the images.  `this.load.image` preloads the image file so that you can access it by key only.  `this.add.image` allows you to place the image to the `x` and `y` coordinates.
-![Code Image Display](./blog/resources/code-image.png)
+![Code Image Display](./resources/code-image.png)
 
 
 ## Resources
