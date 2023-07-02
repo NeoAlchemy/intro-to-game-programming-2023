@@ -1,6 +1,6 @@
 ---
-slug: getting-started
-title: Getting Started
+slug: load-sprite
+title: Load-Sprite
 authors: [NeoAlchemy]
 tags: [coding]
 ---
