@@ -1,6 +1,6 @@
 ---
 slug: load-sprite
-title: Load-Sprite
+title: How to load a sprite image file
 authors: [NeoAlchemy]
 tags: [coding]
 ---
