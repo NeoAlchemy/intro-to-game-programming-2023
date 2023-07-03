@@ -5,7 +5,7 @@ authors: [NeoAlchemy]
 tags: [coding]
 ---
 
-We will make some splash screens for the games that you will be coding.  Splash Screens are a way to display your "Company's Logo and Name".  For your design thinking of some good colors, fun logo and fun company name.
+We will make some splash screens for the games that you will be coding.  Splash Screens are a way to display your "Company's Logo and Name".  For your design thinking of some good colors, fun logo and fun company name.  In the end the idea is to sketch out your own splash screen and do the challenge.
 
 >Here is my splash screen.
 
@@ -41,7 +41,7 @@ If you really want to there is a way to add a 'startup sound' to the splash scre
 
 You can have text and logos fly in, fade in, and even bounce in.  You can do whatever you want.
 
-> Sketch out on paper what your splash screen design would look like.
+
 
 ## Examples
 
@@ -51,6 +51,10 @@ You can have text and logos fly in, fade in, and even bounce in.  You can do wha
 ![King Splash Screen](./resources/king-splash-screen.png)
 ![Nintendo Splash Screen](./resources/nintendo-splash-screen.png)
 ![Zeptolab Splash Screen](./resources/zeptolab-splash-screen.png)
+
+## Things to do
+
+Sketch out on paper what your splash screen design would look like.
 
 ## Challenge
 

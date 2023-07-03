@@ -11,9 +11,9 @@ The boilerplate project is now working with Phaser 3 which is a JavaScript and T
 
 ## Steps to displaying image
 
-1. In your browser go to StackBlitz and visit the Starting Boilerplate Template.  Find the Fork button in the top left corner and click the button ![Boilerplate Template](./resources/start-with-boilerplate.png)
+1. In your browser go to StackBlitz and visit the [Starting Boilerplate Template](https://stackblitz.com/edit/starting-boilerplate-phaser-zcqxxx).  Find the Fork button in the top left corner and click the button ![Boilerplate Template](./resources/start-with-boilerplate.png)
 
-1. You will want to change the project metadata with a new project name, and url for viewing the project.  Refresh the page to have your project name changes take effect.  You will then want to connect to a GitHub repository.
+1. You will want to edit the project info with a new project name, and project url.  Click on the lock symbol that is located by the project name.  Refresh the page to have your project name changes take effect.  You will then want to connect to a GitHub repository.
 ![Connect to Repo](./resources/connect-to-repo.png)
 
 1. You will see the GitHub repository name where the 'connect repository' button use to be.  That is a launchable link and you can click the link to go to the GitHub repository page.
