@@ -34,10 +34,10 @@ The boilerplate project is now working with Phaser 3 which is a JavaScript and T
 1. You will see a message indicating that saving of settings was successful.
 ![Success for GitHub Pages](./resources/success-github-pages.png)
 
-1. View your StackBlitz project that you have been working with.  Find the image file that you want to display and drag that over to StackBlitz project structure.  It is best to have a folder structure where you can save images that you are using in the game different then piskel files for modification later.
+1. View your StackBlitz project that you have been working with.  You may want to create a folder by clicking on the folder icon with a plus sign that appears when your mouse hovers over Files.  It is best to have a folder structure where you can save images that you are using in the game different then piskel files for modification later.  Find an image file from your computer or an image file from Piskel that you have been creating.  Grab the image from your desktop machine and with your mouse drag the image file to the folder on StackBlitz project structure that contains your images.  
 ![Load Regular Image](./resources/load-regular-image.png)
 
-1. StackBlitz will sync the image with GitHub, especially when you choose the commit button.  GitHub will then start a process (under Actions) that will deploy the images to GitHub pages.  After about a minute or two you will see the image under the GitHub area.
+1. StackBlitz will sync the image with GitHub, especially when you choose the commit button.  GitHub will then start a process (under Actions) that will deploy the images to GitHub pages.  After about a minute or two you will see the image under the GitHub area.  You will see that the url is a combination of `github name` + `/github.io/` + `repo name` + `folder name` + `image file name and extension`.  Something like `https://neoalchemy.github.io/test/image/bug.png` where `neoalchemy `is the github name, `test` is the repo name, `image` is the folder as there is one and `bug.png` is the file name.
 ![Image Hosted](./resources/image-hosted.png)
 
 1. Inside the index.ts there are a few code changes that you need to make.  First `this.load.baseUrl` sets up where the code can find the images.  `this.load.image` preloads the image file so that you can access it by key only.  `this.add.image` allows you to place the image to the `x` and `y` coordinates.
